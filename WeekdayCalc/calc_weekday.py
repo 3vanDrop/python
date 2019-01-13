@@ -66,10 +66,10 @@ class Weekday:
         }
         self.date = Date(*date)
 
-    def weekday(self):
+    def __call__(self):
         return self.days[ self.date.weekday() ]
 
 if __name__ == '__main__':
     date = datetime.today()
     today = Weekday(date.day, date.month, date.year)
-    print('Today is', today.weekday())
+    print( 'Today is', today() )
