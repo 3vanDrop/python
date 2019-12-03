@@ -1,14 +1,12 @@
 """@Excel.py
 *******************************************************************************
-@par DESCRIPTION:
 
-        - Excel Basic operations Class:
-        Basic Excel App control through COM Server based on Pywin32 lib
+ - Excel Basic operations Class:
+ Basic Excel App control through COM Server based on Pywin32 lib
     
     == Author: '3van' ==
 
-@NOTE:
-    Created on Python v3.7  
+    Python v3.7  
 
 *******************************************************************************
 """
