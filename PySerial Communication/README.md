@@ -7,6 +7,10 @@ serial_communication_script.py has been created to demonstrate pyserial usage co
 
 ### PIP
 - Pip installed and ready to use.
+#### Install the requirements
+```Shell
+pip install pyserial
+```
 
 # Virtual Setup and Usage
 ****
@@ -16,10 +20,6 @@ serial_communication_script.py has been created to demonstrate pyserial usage co
 3. Select two available ports below **Virtual ports to pair** and click on **Create** button.
 4. Confirm new ports created are listed in Device Manager. (optional, script takes care of this)
 
-### Install the requirements
-```Shell
-pip install pyserial
-```
 
 ### Serial Communication Script usage
 ```Shell
