@@ -6,7 +6,8 @@ serial_communication_script.py has been created to demonstrate pyserial usage co
 - Using python 3+
 
 ### PIP -  Install the requirements
-- Pip installed and ready to use.
+- PIP shall be installed and ready to use.
+- Install PySerial Lib by running:
 ```Shell
 pip install pyserial
 ```
