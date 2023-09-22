@@ -1,8 +1,5 @@
-# 3vanDrop/python
-
-This repo contains several scripts 
-
 # Description
+serial_communication_script.py has been created to demonstrate pyserial usage communication between two serial ports. Find usage examples & instructions below. 
 
 # Requirements
 ### Python
